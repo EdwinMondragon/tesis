@@ -1,0 +1,86 @@
+---
+title: "Articles: Tables & Figures"
+format:
+  html:
+    toc: true
+    toc-expand: 2
+    toc-location: left
+    number-sections: true
+    self-contained: true
+    code-fold: true
+    output-file: "analisis"
+editor_options: 
+  chunk_output_type: console
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+# Project Setup
+
+```{r}
+#| label:  setup
+
+source('https://inkaverse.com/setup.r')
+
+cat("Project: ", getwd())
+cat("CPU cores available: ", parallel::detectCores())
+RhpcBLASctl::blas_set_num_threads(parallel::detectCores()*0.8)
+session_info()
+```
+
+# Refencias
+
+> https://cran.r-project.org/web/packages/cowplot/index.html
+
+# Figuras
+
+## Importar
+
+```{r}
+plot01 <- readPNG("fig1.png") %>% grid::rasterGrob()
+plot02 <- readPNG("fig2.png") %>% grid::rasterGrob()
+plot03 <- readPNG("fig3.png") %>% grid::rasterGrob()
+```
+
+## Grid plots
+
+```{r}
+plot <- list(plot01, plot02, plot03) %>% 
+  plot_grid(plotlist = .
+            , nrow = 2
+            , labels = "AUTO"
+            )
+
+plot
+```
+
+## Guardar figura
+
+```{r}
+plot %>% 
+  ggsave2(filename = "Fig01.pdf"
+          , plot = .
+          , dpi = 300
+          , width = 20
+          , height = 10
+          , units = "cm"
+          )
+```
+
+## PDF to TIFF
+
+```{r}
+pdf2tiff <- list.files(".", pattern = "Fig.*pdf", full.names = T) 
+
+imgs <- 1:length(pdf2tiff) %>% map(\(x) {
+  
+  filename <- pdf2tiff[x] %>% gsub(".pdf", "\\1.tiff", .) 
+  
+  pdf2tiff[x] %>% 
+    image_read_pdf() %>% 
+    image_write(format = "tiff", filename)
+  
+})
+```
