@@ -210,7 +210,19 @@ futuras investigaciones que se centren en el desarrollo de estrategias de
 control biológico de *M. hemipterus*.
 </div>
 
+## <span style="color: orange;">Población, muestra y muestreo </span>
+<div style="text-align: justify;">
 
+**Población:** La población estará compuesta por el conjunto de parcelas
+productoras de plátano en Ñunya Jalca, Amazonas.
+
+**Muestra:** Será compuesta por larvas, pupas y adultos micosados de
+*M. hemipterus* característico de Metarhizium spp.
+
+**Muestreo:** El muestreo será no probabilístico dirigido, debido a que
+se tomarán sólo larvas, pupas y adultos micosados de *M. hemipterus* con presencia característica de *Metarhizium*
+spp.
+</div>
 ## <span style="color: orange;">Variables de estudio </span>
 <div style="text-align: justify;">
 **Variables independientes**
@@ -239,6 +251,217 @@ Tiempo de germinación (TG50 y TG90)
 **Tabla 1:** Tabla de operacionalización de variables
 </div>
 
+## <span style="color: orange;">Métodos </span>
+<div style="text-align: justify;">
 
+**a) Obtención de muestras**
+Larvas, pupas y adultos micosados de *M. hemipterus* serán obtenidos
+mediante un muestreo no probabilístico dirigido, en plantaciones de plátano
+ubicadas en el Centro Poblado Ñunya Jalca, Amazonas. Los adultos
+micosados serán colocados dentro de viales estériles y transferidos a un
+Cooler para su transporte al Laboratorio de Investigación en Sanidad Vegetal
+(Mayo 2024).
 
+**b) Obtención de aislados**
+De acuerdo con Torres et al. (2016), larvas, pupas y adultos, con signos de
+micosis serán desinfectados superficialmente utilizando hipoclorito de sodio
+al 0,5 % durante 5 minutos, seguido de tres lavados con agua destilada estéril
+(ADE). Posteriormente, se colocarán individualmente en cámaras húmedas y
+se incubarán a 25 °C durante 8 días con el objetivo de inducir esporulación.
+Para la propagación de los aislamientos, se empleará como sustrato el medio
+de cultivo Sabouraud Dextrose Agar (SDA) + 0,1 % de extracto de levadura
+(ADS+EL).
+
+**c) Caracterización morfológica**
+Para identificar se describirán las estructuras reproductivas de los aislados de
+acuerdo con Bischoff et al. (2009) y Humber (2012). Para la caracterización
+morfológica después de 14 días de crecimiento de los aislados en placas Petri
+con (SDA+EL), se describirá características de la colonia: tamaño,
+morfología y conidiación (Mayo 2024). Se realizará microcultivo para
+descripción microscópica, inoculando discos de (SDA+EL) de 0.5 cm de
+diámetro, bajo un cubreobjeto. Los discos inoculados se incubarán a 25 ºC en
+cámara húmeda por 5 días. Para el montaje de muestras y morfometría, los
+cubreobjetos con esporas se retirarán cuidadosamente de los microcultivos
+con pinzas y serán transferidos a portaobjetos previamente preparados.
+Luego, los montajes se secarán con papel absorbente y sellados con esmalte
+de uñas transparente para su conservación. Se observarán las estructuras
+microscópicas con un microscopio Leica® (Leica Microsystems, Wetzlar,Alemania) y se obtendrán imágenes para medir la longitud y el ancho de los
+conidios (Oliva et al., 2024). Las mediciones de las estructuras microscópicas
+se realizarán con el software Image Tool 3.0.
+
+**d) Caracterización molecular**
+A partir de cultivos puros de 8 días de crecimiento, se extraerá ADN
+genómico utilizando el método CTAB (Doyle & Doyle, 1990), y su
+concentración será determinada por espectrofotometría. Para el análisis
+filogenético, se amplificarán las regiones ITS (ITS1-5.8S-ITS2) y β-tubulina
+mediante PCR, empleando los cebadores ITS5/ITS4 (White et al., 1990) y
+Bt2a/Bt2b (Glass & Donaldson, 1995), respectivamente. Las condiciones de
+amplificación incluirán desnaturalización inicial a 94°C por 2 minutos, 40
+ciclos (94°C por 30 s, 55°C por 45 s y 72°C por 90 s), y una extensión final
+a 72°C por 4 minutos. Las reacciones se prepararán en un volumen de 25 µL,
+conteniendo buffer 1X, MgCl2 (1.5 mM), dNTPs (0.2 mM), cebadores (0.4
+µM), 1 U de Taq polimerasa y 20 ng de ADN. Los productos se enviarán a
+una empresa especializada para su secuenciación, y las secuencias obtenidas
+serán comparadas con la base de datos GenBank del NCBI para su
+identificación filogenética.
+
+**e) Caracterización fisiológica**
+
+**i) Crecimiento micelial**
+A partir de colonias con 8 días de crecimiento, se tomará un disco de 0.5
+cm desde el borde y se transferirá al centro de una placa Petri de 90 mm
+de diámetro con (SDA+EL). Las placas se incubarán en condiciones de
+oscuridad a temperaturas de 20, 25 y 30 ± 1 °C. El crecimiento micelial
+(CM) se registrará cada dos días, hasta que el hongo cubra por completo
+la superficie de la placa. Cada combinación de aislamiento y temperatura
+se evaluará con cinco repeticiones. Para definir el efecto de la temperatura
+sobre el crecimiento, se calculará el incremento del crecimiento radial al
+comparar 20 °C con 25 °C, aplicando la fórmula: %
+inhibición/incremento = [(crecimiento a 25 °C × 100) / crecimiento a 20
+°C]-100 (Torres et al., 2013).
+
+**ii) Producción conidial**
+Se tomarán discos de 0.5 cm de colonias de 8 días de crecimiento y se
+transferirán a placas Petri con (SDA+EL). Estas placas serán incubadas en
+oscuridad durante 15 días a temperaturas de 20, 25 y 30 ± 1 °C.
+Finalizado este período, los conidios se recolectarán inundando la
+superficie de la colonia con agua destilada estéril (ADE) y Tween 80 al
+0,1 %. La suspensión obtenida se homogeneizará durante un minuto
+usando un agitador magnético. Para separar los conidios del micelio, se
+filtrará la mezcla a través de gasa clínica estéril. La producción de
+conidios (PdC) por cada aislamiento se cuantificará mediante el uso de
+una cámara de Neubauer. Se establecerán cinco repeticiones por
+aislamiento. El número de conidios por mililitro se calculará aplicando la
+fórmula de Lipa & Slizynski (1973):
+
+C = (Cc) (4 x 106) (Fd/80)
+Donde:
+
+C = cantidad de conidios
+
+Cc = número promedio de conidios contados
+
+Fd = factor de dilución
+
+El impacto de la temperatura sobre la producción de conidios (PdC) en
+medio de cultivo (SDA+EL) se analizará mediante el cálculo del
+porcentaje de inhibición, comparando los valores obtenidos a 20 °C y 30
+°C respecto a los de 25 °C. Para ello, se emplearán las siguientes
+fórmulas: % INH/INC = [(PdC a 25 °C × 100) / PdC a 20 °C] - 100, y %
+INH/INC = [(PdC a 30 °C × 100) / PdC a 25 °C]-100 (Torres et al.,
+2013).
+
+**iii) Porcentaje de germinación**
+Utilizando cultivos de 20 días de crecimiento, se preparará una
+suspensión con 5 x 10⁶ conidios por mililitro. De esta, se tomarán 30 µL
+que serán inoculados en placas de Petri con (SDA+EL), las cuales seincubarán a temperaturas de 20, 25 y 30 ± 1 °C. La evaluación de la
+germinación comenzará a partir de la séptima hora, mediante la
+observación de 100 conidios por lectura, y se continuará hasta que alguno
+de los aislamientos alcance un 90 % de germinación (Torres et al., 2016).
+
+</div>
+
+## <span style="color: orange;">Evaluación de patogenicidad </span>
+<div style="text-align: justify;">
+
+Se realizará en adultos de *M. hemipterus*, para ello se recolectarán de
+plantaciones donde se efectuó el muestreo inicial. Estos serán sumergidos
+durante un minuto en una suspensión con 1 x 10⁷ conidios por mililitro,
+complementada con Tween 80 al 0,1 %. Los controles serán tratados de igual
+forma, pero utilizando solamente agua destilada estéril (ADS) + Tween 80 al
+0,1 %. Seguido, los insectos tratados se colocarán en recipientes plásticos,
+agrupando 10 individuos por unidad experimental, con cinco repeticiones por
+cada aislamiento. Las condiciones de incubación serán de 25 ± 1 °C. La
+mortalidad será registrada diariamente y los adultos muertos se transferirán a
+una cámara húmeda para favorecer la esporulación (Mayo, 2024).
+
+</div>
+
+## <span style="color: orange;">Producción de conidios en arroz </span>
+<div style="text-align: justify;">
+
+Se seguirá la metodología utilizada por Torres et al. (2016), empleando 50
+gramos de arroz depositados en bolsas de polipapel, humedecidos con 12
+mililitros de agua destilada, y esterilizados a 121 °C durante 20 minutos. Una
+vez frías, las bolsas serán inoculadas con 5 mililitros de suspensión con 1 x
+10⁶ conidios por mililitro, e incubadas durante 15 días con temperatura de 25
+± 1 °C y bajo fotoperiodo de 12 horas luz y 12 horas oscuridad. Para cada
+aislamiento se realizarán cinco repeticiones. Al término del periodo de
+incubación, los 50 gramos de arroz se mezclarán con 150 mililitros de ADS
+más Tween 80 al 0,1 % y agitados durante 10 minutos. Luego, para separar
+los conidios del sustrato y micelio se utilizará una gasa clínica. Finalmente, el
+número de conidios se cuantificará utilizando una cámara de Neubauer,
+estimando la producción por gramo (PdC g⁻¹) mediante la fórmula de Lipa &
+Slizynski (1973), descrita anteriormente.
+
+</div>
+# <span style="color: orange;">Análisis de datos </span>
+<div style="text-align: justify;">
+Los datos correspondientes al crecimiento micelial (CM), producción de conidios
+(PdC) en medio SDA, PdC en arroz y mortalidad serán analizados empleando un
+diseño completamente aleatorizado (DCA), considerando n tratamientos
+(aislamientos). Previamente al análisis estadístico, los valores de mortalidad se
+transformarán mediante la función arcoseno de la raíz cuadrada de la proporción,
+mientras que los datos de CM y PdC serán sometidos a la transformación
+logarítmica log (x + 1). La comparación entre tratamientos se llevará a cabo
+mediante un análisis de varianza (ANOVA) con un nivel de significancia de α =
+0.05, seguido por la prueba de comparaciones múltiples de Tukey, utilizando el
+software R.
+Adicionalmente, los tiempos necesarios para alcanzar el 50 % y el 90 % de
+germinación de conidios (TG50 y TG90) serán estimados mediante modelos de
+regresión logística, también implementados en R.
+</div>
+
+# <span style="color: orange;">Cronograma </span>
+<div style="text-align: justify;">
+
+**Tabla 2:** Cronograma de actividades
+</div>
+
+<style>
+.referencias p {
+  text-indent: -1.5em;
+  padding-left: 1.5em;
+  margin-bottom: 0.5em;
+  text-align: justify;
+}
+</style>
+
+# <span style="color: orange;">Referencias bibliográficas</span>
+
+<div class="referencias">
+
+<p>Algarate, D. C., & Marianella, O. (2023). Determinación del efecto de <i>Metarhizium anisopliae</i> para el control de adultos de <i>Cryptocephalus sp.</i> En condiciones de laboratorio. <a href="https://hdl.handle.net/20.500.14414/17611">https://hdl.handle.net/20.500.14414/17611</a></p>
+
+<p>Aw, K. M. S., & Hue, S. M. (2017). Mode of Infection of <i>Metarhizium</i> spp. Fungus and Their Potential as Biological Control Agents. <i>Journal of Fungi, 3</i>(2), Article 2. <a href="https://doi.org/10.3390/jof3020030">https://doi.org/10.3390/jof3020030</a></p>
+
+<p>Baró, Y., Schuster, C., Gato, Y., Márquez, M. E., & Leclerque, A. (2022). Characterization, identification and virulence of <i>Metarhizium</i> species from Cuba to control the sweet potato weevil, <i>Cylas formicarius</i> Fabricius (Coleoptera: Brentidae). <i>Journal of Applied Microbiology, 132</i>(5), 3705–3716. <a href="https://doi.org/10.1111/jam.15460">https://doi.org/10.1111/jam.15460</a></p>
+
+<p>Bischoff, J. F., Rehner, S. A., & Humber, R. A. (2009). A multilocus phylogeny of the <i>Metarhizium anisopliae</i> lineage. <i>Mycologia, 101</i>(4), 512–530. <a href="https://doi.org/10.3852/07-202">https://doi.org/10.3852/07-202</a></p>
+
+<p>Chuquibala-Checan, B., Torres-de la Cruz, M., Leiva, S., Hernandez-Diaz, E., Rubio, K., Goñas, M., Arce-Inga, M., & Oliva-Cruz, M. (2023). In vitro biological activity of <i>Beauveria bassiana</i>, <i>Beauveria peruviensis</i>, and <i>Metarhizium</i> sp. against <i>Hypothenemus hampei</i> (Coleoptera: Curculionidae). <i>International Journal of Agronomy, 2023</i>(1), 4982399. <a href="https://doi.org/10.1155/2023/4982399">https://doi.org/10.1155/2023/4982399</a></p>
+
+<p>Doyle, J. J., & Doyle, J. L. (1990). Isolation of plant DNA from fresh tissue. <i>Focus, 12</i>, 13–15.</p>
+
+<p>Fang, G., Hammar, S., & Rebecca, R. (1992). A quick and inexpensive method for removing polysaccharides from plant genomic DNA. <i>BioTechniques, 13</i>, 52–56.</p>
+
+<p>Gerónimo-Torres, J. D. C., Torres-de-la-Cruz, M., Cruz, M. P., De-la-Cruz-Pérez, A., Ortiz-García, C. F., & Cappello-García, S. (2016). Caracterización de aislamientos nativos de <i>Beauveria bassiana</i> y su patogenicidad hacia <i>Hypothenemus hampei</i>, en Tabasco, México. <i>Revista Colombiana de Entomología, 42</i>(1), 28–35.</p>
+
+<p>Glass, N. L., & Donaldson, G. (1995). Development of primer sets designed for use with PCR to amplify conserved genes from filamentous Ascomycetes. <i>Applied and Environmental Microbiology, 61</i>, 1323–1330.</p>
+
+<p>Humber, R. A. (2012). Chapter VI - Identification of entomopathogenic fungi. En L. A. Lacey (Ed.), <i>Manual of Techniques in Invertebrate Pathology</i> (2nd ed., pp. 151–187). Academic Press. <a href="https://doi.org/10.1016/B978-0-12-386899-2.00006-3">https://doi.org/10.1016/B978-0-12-386899-2.00006-3</a></p>
+
+<p>Lipa, J. J., & Slizynski, K. (1973). Wskazówki metodyczne i terminologia do wyznaczania średniej dawki śmiertelnej (LD50) w patologii owadów i toksykologii. <i>Prace Naukowe Instytutu Ochrony Roślin, 15</i>(1). <a href="http://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-a6c704fd-061e-4c7e-bbcd-add4213ad0fe">http://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-a6c704fd-061e-4c7e-bbcd-add4213ad0fe</a></p>
+
+<p>Mayo Hernández, M. Á. (2024). Caracterización de aislamientos nativos de <i>Metarhizium</i> sp. para el control biológico de la chinche <i>Antiteuchus tripterus</i> (Hemiptera: Pentatomidae) en Tabasco, México. <a href="https://ri.ujat.mx/handle/200.500.12107/4470">https://ri.ujat.mx/handle/200.500.12107/4470</a></p>
+
+<p>Oliva-Cruz, M., Altamirano-Tantalean, M. A., Chuquizuta-Torres, R., Oliva-Cruz, C., Maicelo-Quintana, J. L., Leiva-Espinoza, S. T., Culqui, L., Mendez-Fasabi, L. D., Rojas Ventura, H. M., Corazon-Guivin, M. A., & Juarez-Contreras, L. (2024). Isolation and characterization of native isolates of <i>Metarhizium</i> sp. as a biocontrol agent of <i>Hypothenemus hampei</i> in Rodríguez de Mendoza Province—Peru. <i>Agronomy, 14</i>(7), Article 7. <a href="https://doi.org/10.3390/agronomy14071341">https://doi.org/10.3390/agronomy14071341</a></p>
+
+<p>Torres de la Cruz, M., Cortez, M. H., Ortiz-García, C. F., Cappello-García, S., & de la Cruz-Pérez, A. (2013). Caracterización de aislamientos nativos de <i>Metarhizium anisopliae</i> y su patogenicidad hacia <i>Aeneolamia postica</i>, en Tabasco, México. <i>Revista Colombiana de Entomología, 39</i>(1), 40–46.</p>
+
+<p>Valle, S., Carrera, K., Alemán, R., Caicedo, W. (2021). Caracterización de aislamientos nativos de <i>Metarhizium</i> spp. para el control de <i>Mahanarva andigena</i> en el cultivar de caña de azúcar POJ93 en la Amazonía ecuatoriana. <i>Idesia (Arica), 39</i>(1), 69–75. <a href="https://doi.org/10.4067/S0718-34292021000100069">https://doi.org/10.4067/S0718-34292021000100069</a></p>
+
+<p>White, T. J., Bruns, T., Lee, S. J., & Taylor, J. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. En <i>PCR Protocols: A Guide to Methods and Applications, 18</i>(1), 315–322.</p>
+
+</div>
 
