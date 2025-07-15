@@ -1,0 +1,244 @@
+---
+title: "AISLADOS NATIVOS DE *Metarhizium* spp. CON POTENCIAL DE BIOCONTROL SOBRE EL PICUDO RAYADO DEL PLÁTANO (*Metamasius hemipterus*) EN ÑUNYA JALCA, AMAZONAS"
+author: "Edwin Mondragon Herrera"
+format:
+  html:
+    toc: true
+    toc-location: left
+    number-sections: true
+    embed-resources: true
+    output-file: index
+header-includes:
+  - |
+    <style>
+      h1.title {
+        text-align: justify;
+        color: blue;
+      }
+    </style>
+---
+<div style="text-align: center; font-weight: bold; margin-top: 50px;">
+    CHACHAPOYAS – Perú
+</div>
+<div style="text-align: center; margin-top: 10px;">
+    2025
+</div>
+
+# <span style="color: orange;">Título </span>
+<div style="text-align: justify;">
+Aislados nativos de *Metarhizium* spp. con potencial de biocontrol sobre el picudo
+rayado del plátano (*Metamasius hemipterus*) en Ñunya Jalca, Amazonas
+</div>
+
+
+# <span style="color: orange;">Problema de investigación </span>
+<div style="text-align: justify;">
+¿Cuáles son los aislados nativos de *Metarhizium* spp. con potencial de biocontrol
+sobre el picudo rayado del plátano (*Metamasius hemipterus*) en Ñunya Jalca,
+Amazonas?
+</div>
+
+# <span style="color: orange;">Objetivos</span>
+## <span style="color: orange;">Objetivo general </span>
+<div style="text-align: justify;">
+Caracterizar y seleccionar aislados nativos de *Metarhizium* spp. con potencial de
+biocontrol sobre el picudo rayado del plátano (*Metamasius hemipterus*) en Ñunya
+Jalca, Amazonas
+</div>
+
+## <span style="color: orange;">Objetivos específicos </span>
+<div style="text-align: justify;">
+i) Aislar y caracterizar morfológica y molecularmente aislados nativos de
+*Metarhizium* spp.
+
+ii) Caracterizar fisiológicamente los aislados nativos de *Metarhizium* spp, mediante variables: crecimiento micelial (MC); producción de conidias (PdC); germinación de conidios (GdC).
+
+iii) Evaluar la patogenicidad de los aislados nativos de *Metarhizium* spp. sobre adultos sanos de *Metamasius hemipterus*.
+
+iv) Evaluar la producción de conidios de los aislados nativos de *Metarhizium* spp. en arroz como sustrato para posible producción masiva.
+</div>
+
+# <span style="color: orange;">Antecedentes</span>
+<div style="text-align: justify;">
+El género *Metarhizium* alberga hongos entomopatógenos con amplia
+distribución geográfica y destacado potencial como agentes de control biológico,
+debido a su especificidad hacia determinados hospedadores, bajo riesgo
+ambiental y facilidad de producción industrial. Algunas especies muestran un
+comportamiento generalista, como *M. anisopliae*, capaz de infectar insectos de
+diversos órdenes, mientras que otras, como *M. acridum*, presentan alta
+especificidad. Esta variabilidad en la especificidad del hospedador ha impulsado
+investigaciones orientadas a comprender sus mecanismos de infección, los genesresponsables de su virulencia, y la producción de enzimas y toxinas que facilitan
+la invasión del hospedador (Aw & Hue, 2017).
+</div>
+
+<div style="text-align: justify;">
+Valle et al. (2021), evaluaron un total de 20 aislamientos monospóricos nativos
+de *Metarhizium* spp. aislados de suelos e insectos micosados en cultivos de caña
+de azúcar en Pastaza, Ecuador, con el objetivo de determinar su potencial
+biocontrol contra Mahanarva andigena (salivazo). Utilizaron un diseño
+completamente al azar (DCA) con seis repeticiones por aislamiento, permitió
+identificar variabilidad significativa en parámetros como crecimiento radial, tasa
+de crecimiento y producción de conidios. El aislado DAS5401 presentó buen
+crecimiento micelial (64,7 mm) y una tasa de expansión diaria de 2,99 mm/día,
+destacando también en producción conidial junto a otros aislamientos como
+TS6302 y SJS5101, con concentraciones superiores a 1 x 108 conidios/mL. Estos
+resultados evidencian la diversidad funcional entre cepas locales de Metarhizium
+spp. y su potencial como candidatos para formulaciones micoinsecticidas
+destinadas al manejo del salivazo en laboratorio, invernadero y campo.
+</div>
+<div style="text-align: justify;">
+Baró et al. (2022), caracterizaron seis aislados fúngicos del género *Metarhizium*
+provenientes de insectos y suelos en Cuba, con el objetivo de identificar su
+actividad controladora contra Cylas formicarius, plaga de la papa. Los aislados
+se cultivaron en medios específicos y se evaluaron mediante análisis
+morfológico, cultural y molecular utilizando los genes ef1a, rpb1, rpb2 y 5TEF.
+Se identificaron cinco aislados como *M. anisopliae* sensu stricto y uno como *M.robertsii*. También evaluaron el crecimiento micelial y la esporulación en
+distintos medios, destacando LBM-267 y LBM-11 por su alto rendimiento. Para
+pruebas de patogenicidad se aplicaron cinco concentraciones de conidios sobre
+adultos de C. formicarius, registrándose la mortalidad durante 21 días. Los
+análisis estadísticos confirmaron diferencias significativas entre tratamientos.
+Concluyendo, LBM-267 representó ser un candidato prometedor para
+formulación de bioinsecticidas.
+</div>
+
+<div style="text-align: justify;">
+Castillo (2023), evaluó la eficacia de *Metarhizium anisopliae* en el control de
+adultos de *Cryptocephalus* sp. bajo condiciones de laboratorio. Para ello, se
+emplearon cuatro concentraciones del inóculo (105, 106, 107 y 108 esporas/mL),
+aplicadas en tratamientos con cinco repeticiones cada uno, utilizando 10 adultospor repetición. La mortalidad fue registrada diariamente durante un periodo de
+siete días posteriores a la inoculación, y se confirmó la infección mediante la
+técnica de cámara húmeda. Los resultados indicaron un aumento progresivo en
+la mortalidad con el incremento de la concentración del hongo, obteniéndose
+valores del 40 %, 56 %, 92 % y 100 % para 105, 106, 107 y 108 esporas/mL,
+respectivamente. El análisis estadístico reveló que los tratamientos
+correspondientes a las concentraciones de 10⁶ y 10⁷, así como 10⁷ y 10⁸, no
+presentaron diferencias significativas entre sí, aunque sí mostraron diferencias
+con respecto al tratamiento control. Estos hallazgos evidencian el alto potencial
+de *M. anisopliae* para el control biológico de *Cryptocephalus* sp., destacándose
+como una alternativa sostenible.
+</div>
+
+
+<div style="text-align: justify;">
+Chuquibala et al. (2023), analizaron la actividad biológica in vitro de *Beauveria bassiana*, *Beauveria peruviensis* y *Metarhizium* sp. contra *Hypothenemus hampei*, mediante dos ensayos realizados en distintos momentos. Se estudiaron
+parámetros como la producción, viabilidad de conidios y la patogenicidad a tres
+concentraciones (1 x 105, 1 x 107 y 1 x 109 conidios/mL). Además, se calcularon
+los tiempos letales (LT50 y LT90) y las concentraciones letales (LC50 y LC90) de
+cada aislamiento. Obtuvieron resultados con diferencias significativas en la
+producción (P < 0,001) y viabilidad de los conidios (P < 0,041), siendo B.
+bassiana el aislamiento con mayor producción de conidios y *B. peruviensis* el de
+mayor viabilidad. En cuanto a la patogenicidad, también se observaron
+diferencias entre tratamientos en ambos ensayos (ensayo 1: P < 0,0009; ensayo
+2: P < 0,0001). Las mayores tasas de mortalidad sobre *H. hampei* se registraron
+en los tratamientos con B. bassiana (1 x 109 y 1 x 107 conidios/mL) y *B. peruviensis* (1 x 107 conidios/mL). Asimismo, los valores más bajos de LT50 y
+LT90 correspondieron a estos mismos tratamientos, al igual que las
+concentraciones letales más eficaces (LC50 y LC90). Estos hallazgos sugieren que
+tanto *B. bassiana* como *B. peruviensis* presentan características in vitro
+prometedoras y podrían ser consideradas en evaluaciones de campo para
+determinar su eficacia real como agentes de biocontrol contra *H. hampei*.
+</div>
+
+
+<div style="text-align: justify;">
+Mayo (2024), aisló cinco cepas nativas de *Metarhizium* sp. con el objetivo de
+identificar y seleccionar aislamientos con potencial de biocontrol contra chinche
+negra del cacao (*Antiteuchus tripterus*). Realizó la caracterización morfológica,molecular, fisiológica y patogénica de los aislamientos. Además, estudió el
+crecimiento micelial, la germinación y la producción de conidios en Sabouraud
+Dextrose Agar (SDA) a temperaturas de 25, 30 y 35°C. Mediante análisis
+molecular, los aislamientos fueron identificados como Metarhizium brunneum.
+Encontró diferencias significativas (P < 0.0085) en el crecimiento micelial a
+25°C, determinando que el intervalo de temperatura idónea para los
+aislamientos era de 25 a 30°C. En cuanto a la germinación de conidios al 50%
+(TG50) varió entre 7.8 y 21.9 horas, y para TG90 varió entre 9.5 y 27.7 horas.
+Los aislamientos evaluados demostraron efectividad patogénica contra *A. tripterus*, con tasas de mortalidad que oscilaron entre el 72 % y el 96 %.
+</div>
+
+<div style="text-align: justify;">
+En el estudio desarrollado por Oliva et al. (2024), se aislaron y caracterizaron
+dieciocho cepas nativas de *Metarhizium* sp. provenientes de muestras de suelo
+recolectadas en la provincia de Rodríguez de Mendoza, Perú, con el objetivo de
+evaluar su morfología, fisiología y capacidad patogénica. Las colonias
+presentaron una variación notable en la coloración, que incluyó tonalidades entre
+amarillo-gris, blanco, marrón y oliva, con bordes característicos de tipo
+ondulado. Respecto al crecimiento radial, los aislados LLM-M2 y TOR-M16
+mostraron los mayores promedios, alcanzando 43,15 mm y 42,85 mm,
+respectivamente. En términos de producción de conidios a los 15 días, el
+aislamiento LLM-M2 destacó con una concentración de 9,8 x 107 conidios/mL.
+Asimismo, el aislado TOR-M16 presentó una germinación del 100 % a las 14
+horas de incubación, evidenciando su alta viabilidad. En cuanto al crecimiento
+micelial acumulado, el aislado CMR-M7 alcanzó el 97,49 % a las 288 horas.
+Finalmente, en las pruebas de patogenicidad contra adultos de la broca del café,
+los aislamientos TOR-M9, TOR-M16 y MNR-M1 lograron una mortalidad del
+100 %. Estos resultados evidencian el alto potencial entomopatógeno de los
+aislados nativos de *Metarhizium* sp., posicionándose como candidatos viables
+para el desarrollo de bioplaguicidas destinados al control de *H. hampei*,
+ofreciendo una alternativa accesible, económica y ambientalmente sostenible.
+</div>
+
+# <span style="color: orange;">Hipótesis </span>
+<div style="text-align: justify;">
+En las zonas productoras de plátano en Ñunya Jalca, Amazonas, existen especies
+nativas de *Metarhizium* spp. con potencial de biocontrol sobre el picudo rayado
+del plátano (*Metamasius hemipterus*), que pueden ser integradas como
+alternativa de control biológico.
+</div>
+
+# <span style="color: orange;">Metodología </span>
+
+## <span style="color: orange;">Lugar de ejecución o ámbito </span>
+<div style="text-align: justify;">
+
+El presente estudio involucrará actividades en campo y en laboratorio. Los aislados nativos de *Metarizhium* spp. se obtendrán de muestras de larvas, pupas y adultos micosados de *M. hemipterus* mediante muestreo dirigido, en plantaciones de plátano en el Centro Poblado de Ñunya Jalca, Región de Amazonas.
+
+El Laboratorio de Investigación en Sanidad Vegetal (LABISANV) de la
+Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas, en el
+departamento de Amazonas, en coordenadas geográficas de latitud: -
+6.233678, Longitud: -77.853778 y una altitud de 2353 m.s.n.m.
+</div>
+
+## <span style="color: orange;">Nivel y tipo de investigación </span>
+<div style="text-align: justify;">
+
+Se enmarca en un nivel descriptivo, ya que busca identificar y caracterizar
+aislados nativos de *Metarhizium* spp. con potencial de biocontrol sobre *M. hemipterus* en las parcelas productoras de plátano en Ñunya Jalca, Amazonas.
+
+
+Se clasifica como una investigación básica, debido a que su principal objetivo
+es generar conocimiento sobre la diversidad y distribución de aislados nativos
+de *Metarhizium* spp. Sin embargo, los resultados obtenidos contribuirán a
+futuras investigaciones que se centren en el desarrollo de estrategias de
+control biológico de *M. hemipterus*.
+</div>
+
+
+## <span style="color: orange;">Variables de estudio </span>
+<div style="text-align: justify;">
+**Variables independientes**
+
+Aislados nativos de *Metarizhium* spp.
+
+Temperatura (20, 25, 30 °C)
+
+**Variables dependientes**
+
+Crecimiento micelial (CM)
+
+Producción de conidias (PdC)
+
+Germinación de conidias (GdC)
+
+Mortalidad de adultos de *M. hemipterus*
+
+Tiempo de germinación (TG50 y TG90)
+
+</div>
+
+## <span style="color: orange;">Operacionalización de variables </span>
+<div style="text-align: justify;">
+
+**Tabla 1:** Tabla de operacionalización de variables
+</div>
+
+
+
+
